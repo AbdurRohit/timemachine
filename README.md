@@ -15,9 +15,9 @@ npm run db:migrate
 npm run dev
 ```
 
-# Live on render
-link = 
-# Environment Variables
+## Live on render
+link = https://timemachine-rb2w.onrender.com
+## Environment Variables
 DATABASE_URL="your-neon-database-url"
 PORT=3000
 
